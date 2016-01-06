@@ -11,8 +11,7 @@ Figure 1. (left) A PCR primer pair amplifies mitochondrial sequence in both spec
 Procedure:
 To complete this project successfully a number of bioinformatics tools will need to be used. The practical workflow is shown in figure 2. During the practical process, scripts and data will be maintained in a source code repository. Skill set: Source control with Git. Students will need to create an account at GitHub http://github.org
 
-![(Project overview/Slide2.PNG)
-Figure 2. Overview of the practical workflow.
+![Figure 2. Overview of the practical workflow.](Project overview/Slide2.PNG)
 
 1	The first step is to identify appropriate sequence data for subsequent analysis. A web based search of the nucleotide database for the appropriate species at [NCBI](http://www.ncbi.nlm.nih.gov/nuccore) will suffice for that. A non-exhaustive list of mammalian species is shown in table 1.  Skill set: Understanding of sequence formats and database annotation to allow effective searching
 
