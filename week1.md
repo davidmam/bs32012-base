@@ -17,7 +17,7 @@ We will work through the exercises in the Software Carpentry Git lesson as a gro
 The resources you use for learning Python are a matter of personal choice. Some links are included below.
 
 #### Online
-* [TryPython]9http://trypython.org) - a good first dabble with an interactive web interpreter. You will need to move beyond this quite quickly
+* [TryPython](http://trypython.org) - a good first dabble with an interactive web interpreter. You will need to move beyond this quite quickly
 * [Python for Biologists](http://pythonforbiologists.com) - A course structured towards biologists. We have used this successfully with postgraduates in the past. You will need to register to get access to the data files.
 * [Python reference](http://www.python.org) - The main documentation reference for Python. Get used to looking up details here.
 
