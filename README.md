@@ -14,7 +14,7 @@ To complete this project successfully a number of bioinformatics tools will need
 ![Project overview/Slide2.PNG][Overall project workflow]
 Figure 2. Overview of the practical workflow.
 
-    a	The first step is to identify appropriate sequence data for subsequent analysis. A web based search of the nucleotide database for the appropriate species at [NCBI](http://www.ncbi.nlm.nih.gov/nuccore) will suffice for that. A non-exhaustive list of mammalian species is shown in table 1.  Skill set: Understanding of sequence formats and database annotation to allow effective searching
+1 The first step is to identify appropriate sequence data for subsequent analysis. A web based search of the nucleotide database for the appropriate species at [NCBI](http://www.ncbi.nlm.nih.gov/nuccore) will suffice for that. A non-exhaustive list of mammalian species is shown in table 1.  Skill set: Understanding of sequence formats and database annotation to allow effective searching
 
 
 |Common Name|	Latin Name|
@@ -39,15 +39,15 @@ Figure 2. Overview of the practical workflow.
 
 Table 1. Selected carnivorous and other mammalian species
 
-    b	Following download, a sequence alignment should be performed. This is essential to ensure that the appropriate restriction sites can be matched. [Jalview](http://www.jalview.org) will be the preferred tool here. Skill set: importing and aligning sequences with Jalview. Preparation and presentation of multiple sequence alignments. There may be the need to adjust the sequences to ensure appropriate alignment of the circular genomes. This will either be performed with Unix shell or Python scripts.
+2 Following download, a sequence alignment should be performed. This is essential to ensure that the appropriate restriction sites can be matched. [Jalview](http://www.jalview.org) will be the preferred tool here. Skill set: importing and aligning sequences with Jalview. Preparation and presentation of multiple sequence alignments. There may be the need to adjust the sequences to ensure appropriate alignment of the circular genomes. This will either be performed with Unix shell or Python scripts.
 
-    c The aligned sequences can then be searched for restriction enzyme cut sites. [EMBOSS](http://www.emboss.org) contains several tools that can achieve this using the [REBASE](http://www.rebase.org) data. Skill set: Use of Unix command line tools
+3 The aligned sequences can then be searched for restriction enzyme cut sites. [EMBOSS](http://www.emboss.org) contains several tools that can achieve this using the [REBASE](http://www.rebase.org) data. Skill set: Use of Unix command line tools
 
-    d Restriction enzyme sites need to be compared between the two species and unique sites retained. A Python script is the best option here. Skill set: String and set manipulation with Python. Python programming
+4 Restriction enzyme sites need to be compared between the two species and unique sites retained. A Python script is the best option here. Skill set: String and set manipulation with Python. Python programming
 
-    e The filtered set needs to be used to search for oligos with [Primer3](http://primer3.sourceforge.net/). A python script to generate Primer3 input data will be required. Skill set: Python scripting, Unix command line tools. Understanding file input formats.
+5 The filtered set needs to be used to search for oligos with [Primer3](http://primer3.sourceforge.net/). A python script to generate Primer3 input data will be required. Skill set: Python scripting, Unix command line tools. Understanding file input formats.
 
-    f Primer3 output will then be filtered to identify appropriate primer pairs that give resolvable fragments with the appropriate enzyme cut. Skill set: Python scripting
+6 Primer3 output will then be filtered to identify appropriate primer pairs that give resolvable fragments with the appropriate enzyme cut. Skill set: Python scripting
 
 ## Schedule:
 The practical work should be straightforward and can be completed in a couple of days for an experienced student who is skilled with Python. Learning how to use Python will therefore be a significant part of the process for the majority of the students. The first two weeks have very little biological input – just a few hours at most. The rest of the time should be spent on learning the basics of Python. This will then be enhanced through processing the output files from EMBOSS and Primer 3 and generating input files for Primer 3.  The schedule below is indicative – it will change depending on how quickly the particular tasks are accomplished.
