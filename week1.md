@@ -11,7 +11,7 @@ This is the first week of the project. The primary targets in this week are:
 See the [Software](Software.md) page for details. You should be familiar with the working environment by the end of the week.
 
 ### Git for source control 
-We will work through the exercises in the Software Carpentry Git lesson as a group (link to follow) during this week. 
+We will work through the exercises in the [Software Carpentry Git lesson](http://swcarpentry.github.io/git-novice/) as a group during this week. 
 
 ### Learning Python
 The resources you use for learning Python are a matter of personal choice. Some links are included below.
@@ -43,3 +43,5 @@ The agenda for the lab meeting is provisionally;
 
 There will be at least one formal lab meeting during the week, and no more than two. This should (given the anticipated numbers) allow everyone a chance to take on the roles of presenter, chair, and minute taker.
 
+## Mitochondrial sequences
+You should use the [NCBI interface to the nucleotide database](http://www.ncbi.nlm.nih.gov/nuccore) to identify complete mitochondrial genomes for appropriate species. Think about which species you may wish to consider (wild mammals found in Scotland). As you select species ensure you record the full scientific name, any sequence accession numbers and some notes about the species. This should be done as a collaborative effort. With the ability to work together using Git, you can build up a series of small pages, with links, that give a summary of each species chosen. 
