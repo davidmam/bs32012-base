@@ -77,13 +77,7 @@ Much of the software needed is located on the standard university desktop. The r
 
 
 ## Group meetings
-There will be at least one formal group meeting each week. From the second week these will be managed entirely by the students. Students will take it in turns to act as chair, to present their current work, and to take minutes. 
+There will be two formal [group meetings[(meetings.md) each week. From the second week these will be managed entirely by the students. Students will take it in turns to act as chair, to present their current work, and to take minutes. 
 
-### Roles: Chair
-Sets the agenda before the meeting. Responsible for ensuring the meeting progresses smoothly and that all can contribute and discussion remains on topic.
-
-### Roles: Minute taker
-Notes the attendance. Keeps notes of the discussions. After the meeting prepares a summary of the points raised with any actions listed and circulates them.
-
-### Role: Presenter
-Prepares and presents a short update on where their project is at, and raises any questions that require discussion regarding that.
+## Lab books/Lab performance
+Use your lab book as a daily journal in conjunction with the software repository. Guidelines on lab books and collaboration can be found [here](lab.md)
