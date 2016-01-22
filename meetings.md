@@ -1,16 +1,18 @@
 # Lab meetings schedule
 
-| Week | Day | Presenter	| Chair	|Secretary |
-|===|===|===|===|===|
-|15 | Thursday 21st | David	|||
-|16 | Monday 25th | Simon | Imogen | Maxim|
-|16 | Thursday 28th | Alan | Simon | Imogen|
-| 17 | Monday 1st | Maxim | Alan | Simon |
-| 17 | Thursday 4th | Imogen | Maxim | Alan |
-|18 | Monday 8th | Simon | Imogen | Maxim|
-|18 | Thursday 11th | Alan | Simon | Imogen|
-| 19 | Monday 15th | Maxim | Alan | Simon |
-| 19 | Thursday 18th | Imogen | Maxim | Alan |
+Schedule for the lab meetings:
+
+ Week | Day | Presenter	| Chair	|Secretary |  
+ --- | --- | --- | --- | --- |  
+15 | Thursday 21st | David	 | | |  
+16 | Monday 25th | Simon | Imogen | Maxim|  
+16 | Thursday 28th | Alan | Simon | Imogen|  
+17 | Monday 1st | Maxim | Alan | Simon |  
+17 | Thursday 4th | Imogen | Maxim | Alan |  
+18 | Monday 8th | Simon | Imogen | Maxim|  
+18 | Thursday 11th | Alan | Simon | Imogen|  
+19 | Monday 15th | Maxim | Alan | Simon |  
+19 | Thursday 18th | Imogen | Maxim | Alan |  
 
 ## Roles
 
@@ -46,6 +48,18 @@ The chair is responsible for setting the agenda for the meeting and conducting i
   * Encourages everyone to listen to each other
   * Ensures that the necessary decisions are made and agreements noted in the minutes.
 
+> #### Agenda and chairing
+
+> Agendas should follow broadly the pattern:
+>
+> 1.	Welcome
+> 2.	Minutes of last meeting. This is where you go back over the  last meeting and pick up all matters arising (actions) that won’t be taken later in the agenda. 
+> 3.	Progress so far – presentation
+> 4.	Next steps – discussion on how to proceed from there. This is where you need to ensure everyone gets a chance to speak (you can tell those who frequently but in to shut up for a bit and invite the quieter folk to put their ideas forward, and you are also in charge of ensuring that it stays on topic.) , and that you provide a periodic summary. e.g. someone explains at length about something – you summarise that in one or two sentences and check that is what they mean. ‘So what you are saying is ....’. Ensure that the group agree with any conclusions decisions. ‘Are we then agreed that we should do X and person A should do this part, person Y that part?’
+> 5.	Any other business – e.g. any specific questions/issues that need to be discussed relating to the project, or highlighting any further explanation/training that needs to be done. 
+> 6.	Close the meeting. It is a good practice with a group this size to go round each person in turn and ask if they have anything further to bring to the meeting. That ensures everyone gets their say.
+
+> Then we will do any further training/in depth explanations informally afterwards.
 
 ### Secretary
 Minutes meetings (takes a note of and summarises the key points of discussion, agreement/differences and actions agreed)
