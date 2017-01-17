@@ -31,7 +31,8 @@ The resources you use for learning Python are a matter of personal choice. Some 
 There are also many free PDF books available that introduce Python as a programming language for non/novice-programmers
 
 ## Lab meeting
-We will have a lab meeting at the first available opportunity during this week. I will email you all during the previous week to identify a suitable time. All lab meetings will be held in Carnelley 2.20.
+We will have a lab meeting at the first available opportunity during this week. I will email you all during the previous week to identify a suitable time.
+ All lab meetings will be held in Carnelley Museum.
 The agenda for the lab meeting is provisionally;
 
 * Introduction and welcome

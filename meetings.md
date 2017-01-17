@@ -4,15 +4,15 @@ Schedule for the lab meetings:
 
  Week | Day | Presenter	| Chair	|Secretary |  
  --- | --- | --- | --- | --- |  
-15 | Thursday 21st | David	 | | |  
-16 | Monday 25th | Simon | Imogen | Maxim|  
-16 | Thursday 28th | Alan | Simon | Imogen|  
-17 | Monday 1st | Maxim | Alan | Simon |  
-17 | Thursday 4th | Imogen | Maxim | Alan |  
-18 | Monday 8th | Simon | Imogen | Maxim|  
-18 | Thursday 11th | Alan | Simon | Imogen|  
-19 | Monday 15th | Maxim | Alan | Simon |  
-19 | Thursday 18th | Imogen | Maxim | Alan |  
+15 | Friday 20th | David	 | | |  
+16 | Tuesday 24th | Emma | George | Roseanne|  
+16 | Friday 27th | Roseanne | Emma | George|  
+17 | Tuesday 31st |  George | Roseanne| Emma | 
+17 | Friday 3rd | Emma | George | Roseanne|   
+18 | Tuesday 7th | Roseanne | Emma | George |
+18 | Friday 10th |  George | Roseanne| Emma | 
+19 | Tuesday 14th | Emma | George | Roseanne|
+19 | Friday 17th | Roseanne | Emma | George|  
 
 ## Roles
 
