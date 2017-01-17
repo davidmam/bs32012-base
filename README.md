@@ -77,7 +77,7 @@ Much of the software needed is located on the standard university desktop. The r
 
 
 ## Group meetings
-There will be two formal [group meetings[(meetings.md) each week. From the second week these will be managed entirely by the students. Students will take it in turns to act as chair, to present their current work, and to take minutes. 
+There will be two formal [group meetings](meetings.md) each week. From the second week these will be managed entirely by the students. Students will take it in turns to act as chair, to present their current work, and to take minutes. 
 
 ## Lab books/Lab performance
 Use your lab book as a daily journal in conjunction with the software repository. Guidelines on lab books and collaboration can be found [here](lab.md)
