@@ -5,14 +5,14 @@ Schedule for the lab meetings:
  Week | Day | Presenter	| Chair	|Secretary |  
  --- | --- | --- | --- | --- |  
 15 | Friday 20th | David	 | | |  
-16 | Tuesday 24th | Emma | George | Roseanne|  
-16 | Friday 27th | Roseanne | Emma | George|  
-17 | Tuesday 31st |  George | Roseanne| Emma | 
-17 | Friday 3rd | Emma | George | Roseanne|   
-18 | Tuesday 7th | Roseanne | Emma | George |
-18 | Friday 10th |  George | Roseanne| Emma | 
-19 | Tuesday 14th | Emma | George | Roseanne|
-19 | Friday 17th | Roseanne | Emma | George|  
+16 | Tuesday 24th | Eleanor | George | Roseanne|  
+16 | Friday 27th | Roseanne | Eleanor | George|  
+17 | Tuesday 31st |  George | Roseanne| Eleanor | 
+17 | Friday 3rd | Eleanor | George | Roseanne|   
+18 | Tuesday 7th | Roseanne | Eleanor | George |
+18 | Friday 10th |  George | Roseanne| Eleanor | 
+19 | Tuesday 14th | Eleanor | George | Roseanne|
+19 | Friday 17th | Roseanne | Eleanor | George|  
 
 ## Roles
 
