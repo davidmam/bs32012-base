@@ -22,6 +22,8 @@ The resources you use for learning Python are a matter of personal choice. Some 
 * [Python reference](http://www.python.org) - The main documentation reference for Python. Get used to looking up details here.
 
 #### Books
+* [Computing Skills for Biologists](https://computingskillsforbiologists.com/) Very highly recommended.  
+
 * [Practical Computing for Biologists](http://practicalcomputing.org/) - This book is a comprehensive reference that covers all you would need to know and some more. 
 * [Computing for Biologists](http://www.cambridge.org/gb/academic/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/computing-biologists-python-programming-and-principles) - Doesn't cover as much ground as the previous book but may be a more approachable style for some.
 * [Python for Biologists](http://pythonforbiologists.com) - companion books for the Python for Biologists course.

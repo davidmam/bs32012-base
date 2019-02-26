@@ -2,17 +2,20 @@
 
 Schedule for the lab meetings:
 
- Week | Day | Presenter	| Chair	|Secretary |  
- --- | --- | --- | --- | --- |  
-15 | Friday 20th | David	 | | |  
-16 | Tuesday 24th | Eleanor | George | Roseanne|  
-16 | Friday 27th | Roseanne | Eleanor | George|  
-17 | Tuesday 31st |  George | Roseanne| Eleanor | 
-17 | Friday 3rd | Eleanor | George | Roseanne|   
-18 | Tuesday 7th | Roseanne | Eleanor | George |
-18 | Friday 10th |  George | Roseanne| Eleanor | 
-19 | Tuesday 14th | Eleanor | George | Roseanne|
-19 | Friday 17th | Roseanne | Eleanor | George|  
+ Week | Day |  Chair	|Secretary |  
+ --- | --- | --- | --- |  
+21 | Monday 25th February | David	 |  |  
+21 | Friday 1st March | Noah|Laura  |  
+22 | Monday 4th March | 	 |  |  
+22 | Friday 8th March | 	 |  |  
+23 | Monday 11th March | 	 |  |  
+23 | Friday 15th March | 	 |  |  
+24 | Monday 18th March | 	 |  |  
+24 | Friday 22nd March | 	 |  |  
+25 | Monday 25th March | 	 |  |  
+25 | Friday 29th March | 	 |  |  
+
+ 
 
 ## Roles
 
