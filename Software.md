@@ -19,7 +19,7 @@ For EMBOSS and Primer 3 you can follow the instructions on the specific websites
 # Account registration
 
 ### Github
-Create an account at [Github](http://www.github.com). You will use this to keep your work in sync.
+Create an account at [Github](http://www.github.com). You will use this to keep your work in sync. You will have been sent an invitation to this repository.
 
 ### Life Sciences Computing
-Register your university ID for a Life Sciences account at the [Life Sciences Portal](https://lsd.lifesci.dundee.ac.uk/register/internal). You will need this to access the teaching server.
+You will have been registered for an account on the Life Sciences compute cluster. Details of access will be given in the first week.

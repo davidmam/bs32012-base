@@ -71,5 +71,4 @@ A few guidelines for working on code and commiting to Github.
   * Use constants, not literals in your code. ie define `PI=3.1415965` at the top of the code and use `PI` as you need it.
   * Keep functions short. If they start getting long, create sub-functions so the code is readable.
   * make your code robust - ie use `try:...except:` blocks and check input.
- 
-Your project performance (lab behaviour) will be assessed on these criteria.  
+   

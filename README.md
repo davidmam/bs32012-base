@@ -1,4 +1,4 @@
-# BS32011/2 Bioinformatics practical overview
+# BS32012 Bioinformatics practical overview
 
 ## Task: 
 From published data design a PCR/digest experiment that will allow identification of mammalian species from mitochondrial DNA in scat.

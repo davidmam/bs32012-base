@@ -2,20 +2,21 @@
 
 Schedule for the lab meetings:
 
- Week | Day |  Chair	|Secretary |  
- --- | --- | --- | --- |  
-21 | Monday 25th February | David	 |  |  
-21 | Friday 1st March | Noah|Laura  |  
-22 | Monday 4th March | 	 |  |  
-22 | Friday 8th March | 	 |  |  
-23 | Monday 11th March | 	 |  |  
-23 | Friday 15th March | 	 |  |  
-24 | Monday 18th March | 	 |  |  
-24 | Friday 22nd March | 	 |  |  
-25 | Monday 25th March | 	 |  |  
-25 | Friday 29th March | 	 |  |  
+Week | Day | Time | Room | Chair | Secretary |
+---- | --- | ---- | ---- | ----- | --------- | 
+20	|	Tuesday	25/02/2025	|	09:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+20	|	Thursday	27/02/2025	|	11:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+20	|	Friday	28/02/2025	|	09:00:00	|	Main Library Bloomberg Lab [cap.15]	|	|	|
+21	|	Monday	03/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+21	|	Friday	07/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+22	|	Tuesday	11/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+22	|	Friday	14/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+23	|	Tuesday	18/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+23	|	Friday	21/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+24	|	Tuesday	25/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+24	|	Thursday	27/03/2025	|	14:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
 
- 
+
 
 ## Roles
 
