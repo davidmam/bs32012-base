@@ -86,5 +86,5 @@ Use your lab book as a daily journal in conjunction with the software repository
 Each student will choose and present one paper on a molecular conservation topic of their choice. 
 
 | Student | Paper title | Reference/link |
-| ======= | =========== | ============== |
+|---------|-------------|----------------|
 | Joe Bloggs | Six bat genomes | [Jeb et al. Nature 583, 578–584 (2020)](https://www.nature.com/articles/s41586-020-2486-3) |
