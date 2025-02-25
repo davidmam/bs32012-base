@@ -81,3 +81,10 @@ There will be two formal [group meetings](meetings.md) each week. From the secon
 
 ## Lab books/Lab performance
 Use your lab book as a daily journal in conjunction with the software repository. Guidelines on lab books and collaboration can be found [here](lab.md)
+
+## Journal club
+Each student will choose and present one paper on a molecular conservation topic of their choice. 
+
+| Student | Paper title | Reference/link |
+| ======= | =========== | ============== |
+| Joe Bloggs | Six bat genomes | [Jeb et al. Nature 583, 578–584 (2020)](https://www.nature.com/articles/s41586-020-2486-3) |
