@@ -88,6 +88,6 @@ Use your lab book as a daily journal in conjunction with the software repository
 ## Journal club
 Each student will choose and present one paper on a molecular conservation topic of their choice. 
 
-| Student | Paper title | Reference/link |
-|---------|-------------|----------------|
-| Joe Bloggs | Six bat genomes | [Jeb et al. Nature 583, 578–584 (2020)](https://www.nature.com/articles/s41586-020-2486-3) |
+| Name | Paper title | reference | link |
+| ---- | --- | --- | --- | 
+| Me | Use of DNA sequencing in tracking estraterrestrials | Journal of improbable science -1, 3-34 | (pagetitle)[URL] |
