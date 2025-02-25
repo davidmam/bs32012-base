@@ -6,15 +6,20 @@ From published data design a PCR/digest experiment that will allow identificatio
 ### Background:
 Observation of large mammals in Scotland is difficult. It requires considerable field craft and is time-consuming and expensive. A more convenient approach is to use surrogate measures such as scat, or droppings. Identification of species from fresh scat in the field is usually straightforward but often scat samples are older and reliable identification between two species of similar size and of similar habitat is not possible.
 Animals shed epithelial cells in their scat, and the DNA from these can be recovered and amplified via PCR. The aim of this project is to design a suitable set of PCR primers that will allow the amplification of a region of the mitochondrial genome that contains a restriction enzyme site specific for one of a species pair but not the other (see figure 1.)
-![Diagnostic PCR (RFLP) for species identification](Project overview/Slide1.PNG)
+
+![Diagnostic PCR (RFLP) for species identification](https://github.com/user-attachments/assets/77dedfed-1117-4f75-9e1a-34aafaf63393)
+
+
 Figure 1. (left) A PCR primer pair amplifies mitochondrial sequence in both species A and species B. (right) Restriction digest with an enzyme which only has a site in the species A sequence gives rise to two possible banding patterns on a gel. (M – marker; A – species A; B – species B)
+
 Procedure:
 To complete this project successfully a number of bioinformatics tools will need to be used. The practical workflow is shown in figure 2. During the practical process, scripts and data will be maintained in a source code repository. Skill set: Source control with Git. Students will need to create an account at GitHub http://github.org
 
-![Figure 2. Overview of the practical workflow.](Project overview/Slide2.PNG)
+![Figure 2. Overview of the practical workflow](https://github.com/user-attachments/assets/e1dc73a2-d577-43da-9897-83f1b2a5c629)
 
 
-1 The first step is to identify appropriate sequence data for subsequent analysis. A web based search of the nucleotide database for the appropriate species at [NCBI](http://www.ncbi.nlm.nih.gov/nuccore) will suffice for that. A non-exhaustive list of mammalian species is shown in table 1.  Skill set: Understanding of sequence formats and database annotation to allow effective searching
+
+The first step is to identify appropriate sequence data for subsequent analysis. A web based search of the nucleotide database for the appropriate species at [NCBI](http://www.ncbi.nlm.nih.gov/nuccore) will suffice for that. A non-exhaustive list of mammalian species is shown in table 1.  Skill set: Understanding of sequence formats and database annotation to allow effective searching
 
 
 |Common Name|	Latin Name|
