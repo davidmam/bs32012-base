@@ -98,6 +98,6 @@ Each student will choose and present one paper on a molecular conservation topic
 | Name | Paper title | reference | link |
 | ---- | --- | --- | --- | 
 | Me | Use of DNA sequencing in tracking estraterrestrials | Journal of improbable science -1, 3-34 | (pagetitle)[URL] |
-|Louis Johnson| Mitogenomic evidence of close relationships between New Zealand’s extinct giant raptors and small-sized Australian sister-taxa|Molecular Phylogenetics and Evolution, 134, pp.122–128.|(ScienceDirect)[https://www.sciencedirect.com/science/article/pii/S1055790318306328?via%3Dihub#s0010]
+|Louis Johnson| Mitogenomic evidence of close relationships between New Zealand’s extinct giant raptors and small-sized Australian sister-taxa|Molecular Phylogenetics and Evolution, 134, pp.122–128.|[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1055790318306328?via%3Dihub#s0010)
 
 ‌
