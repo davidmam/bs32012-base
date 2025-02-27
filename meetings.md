@@ -2,32 +2,26 @@
 
 Schedule for the lab meetings:
 
-Week | Day | Time | Room | Chair | Secretary |
----- | --- | ---- | ---- | ----- | --------- | 
-20	|	Tuesday	25/02/2025	|	09:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| David	|	|
-20	|	Thursday	27/02/2025	|	11:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Beth	| Matthew	|
-20	|	Friday	28/02/2025	|	09:00:00	|	Main Library Bloomberg Lab [cap.15]	| - 	| -	|
-21	|	Monday	03/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-21	|	Friday	07/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-22	|	Tuesday	11/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-22	|	Friday	14/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-23	|	Tuesday	18/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-23	|	Friday	21/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-24	|	Tuesday	25/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
-24	|	Thursday	27/03/2025	|	14:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	|	|
+Week | Day | Time | Room | Chair | Secretary| Presenter |
+---- | --- | ---- | ---- | ----- | --------- | --------- |
+20	|	Tuesday	25/02/2025	|	09:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| David	|	| -|
+20	|	Thursday	27/02/2025	|	11:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Beth	| Matthew	|- |
+20	|	Friday	28/02/2025	|	09:00:00	|	Main Library Bloomberg Lab [cap.15]	| - 	| -	| -  |
+21	|	Monday	03/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Louie | Beth	| - |
+21	|	Friday	07/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Matthew	| Louie	| Beth |
+22	|	Tuesday	11/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Beth | Matthew	| - |
+22	|	Friday	14/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|Louie	| Beth	| Matthew |
+23	|	Tuesday	18/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Matthew | Louie	| - |
+23	|	Friday	21/03/2025	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Beth | Matthew	| Louie |
+24	|	Tuesday	25/03/2025	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Louie | Beth	| - |
+24	|	Thursday	27/03/2025	|	14:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Matthew	| Louie	| - |
 
 
 
 ## Roles
 
 ### Presenter
-The presenter will give a short presentation. In this module this should be about 15 minutes. It should introduce the background to the project for an expert who has not been there, describe the current state of the project, suggest the next steps and invite discussion.
-
-* Content:
-  * Gives the aim of the presentation
-  * The presentation is of an appropriate depth and accuracy
-* Presentation
-  * Provides a concise handout of the presentation (this can be submitted electronically to the chair beforehand)
+The presenter will give a short presentation on a paper of their choice. In this module this should be about 15 minutes including questions. It should introduce the background to the paper, and summarise the results with key figures.
   * The presentation is appropriately structured and the structure is introduced at the start.
   * Slides should be well structured and clear, with few, if any, grammar/spelling mistakes
   * Speak clearly and intelligbly using appropriate scientific language.
