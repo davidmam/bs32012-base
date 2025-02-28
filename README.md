@@ -49,6 +49,9 @@ Table 1. Selected carnivorous and other mammalian species
 |Georgios Giannakis | Orca |[NC_064558.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_064558.1?report=fasta) [FASTA](sequences/Orca.fasta)|
 |Louis Johnson| Sea Otter |[NC_009692.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1?report=fasta)
 |Louis Johnson| Eurasian River Otter |[NC_062277.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1?report=fasta)
+| Mathew Lillico | European Badger | [NC_002080.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2) |
+[FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2?report=fasta&log$=seqview)
+| Mathew Lillico | Hedgehog | [NC_011125.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1?report=fasta&log$=seqview) |
 
 2 Following download, a sequence alignment should be performed. This is essential to ensure that the appropriate restriction sites can be matched. [Jalview](http://www.jalview.org) will be the preferred tool here. Skill set: importing and aligning sequences with Jalview. Preparation and presentation of multiple sequence alignments. There may be the need to adjust the sequences to ensure appropriate alignment of the circular genomes. This will either be performed with Unix shell or Python scripts.
 
