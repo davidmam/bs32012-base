@@ -46,7 +46,6 @@ Table 1. Selected carnivorous and other mammalian species
 
 |Name | species | fasta link |
 | --- | --- | --- |
-|Georgios Giannakis | Orca |[NC_064558.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_064558.1?report=fasta) [FASTA](sequences/Orca.fasta)|
 |Louis Johnson| Sea Otter |[NC_009692.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1) [FASTA](sequences/Sea_otter.fasta)
 |Louis Johnson| Eurasian River Otter |[NC_062277.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1) [FASTA](sequences/River_otter.fasta)
 |Mathew Lillico| European Badger | [NC_002080.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2) [FASTA](sequences/Badger.fasta) |
