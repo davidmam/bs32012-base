@@ -49,8 +49,8 @@ Table 1. Selected carnivorous and other mammalian species
 |Georgios Giannakis | Orca |[NC_064558.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_064558.1?report=fasta) [FASTA](sequences/Orca.fasta)|
 |Louis Johnson| Sea Otter |[NC_009692.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1) [FASTA](sequences/Sea_otter.fasta)
 |Louis Johnson| Eurasian River Otter |[NC_062277.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1) [FASTA](sequences/River_otter.fasta)
-|Mathew Lillico| European Badger | [NC_002080.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2?report=fasta&log$=seqview) |
-|Mathew Lillico| Hedgehog | [NC_011125.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1?report=fasta&log$=seqview) |
+|Mathew Lillico| European Badger | [NC_002080.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2) [FASTA](sequences/Badger.fasta) |
+|Mathew Lillico| Hedgehog | [NC_011125.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1) [FASTA](sequences/European_hedgehog.fasta) |
 |Beth McDonald| Red Squirrel | [NC_002369.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_002369.1) [FASTA](sequences/Red_squirrel.fasta)
 |Beth McDonald| Grey Squirrel | [NC_050012.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_050012.1) [FASTA](sequences/Grey_squirrel.fasta)
 |Athina Chatziplis | Black footed ferret |[NC_024942.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_024942.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_024942.1?report=fasta)
