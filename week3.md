@@ -23,6 +23,33 @@ Primer3 has all the commands/options set in an input file which it reads from ST
 ```
 $ primer3 < inputfile > outputfile
 ```
+
+#### To add your sequence to Primer3 input file
+
+Generate your consensus sequence with the Consensus.py script
+
+    $ python3 ../bs32012-2023/resources/Consensus.py
+    Alignment file: Species_Alignment.fa
+    Please enter your first accession no.: AJ421471
+    Please enter your second accession no.: KR019013
+    Where do you want to save the file to? consensus.fa
+    (BS32012) [dmamartin@c6420-2-4 work]$ more consensus.fa
+    GTTAATGTAGCTTAATAAAAAGCAAAGCACTGAAAATGCTTAGATGAGCTTCCTNGCTCCATAAACACAAAGGTTTGGTC
+    CTNGCCTTTTTATTGTTTNGTAGCAAGTTTACACATGCAAGACTCCCCTNTCCAGTGAGAATGCCCTTAATATCNNNNNN
+
+on the login node:
+
+* Open the example file in nano
+* Find the SEQUENCE_TEMPLATE line
+* move the cursor to the first base of the sequence
+* Press ENTER then CTRL-K to remove the sequence
+* Move the cursor back to just after the =
+* read in the consensus sequence using CTRL-R. This will add it on one line.
+* Ensure you have edited the other parameters correctly.
+* Save the file with a new filename
+
+* run primer3 with `primer3_core --output=outputfilename inputfile`
+ 
 #### Example files for Primer3
 
 To follow soon.
@@ -35,3 +62,5 @@ Leading in to week 4 you should be:
 
 * writing a script to generate Primer3 input files from the difference map.
 * writing a script to process the primer3 output 
+
+ 
