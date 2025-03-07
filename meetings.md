@@ -14,7 +14,7 @@ Week | Day | Time | Room | Chair | Secretary| Presenter |
 23	|	Tuesday	[18/03/2025](meetings/20250318.md)	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Louis | Athina	| - |
 23	|	Friday	[21/03/2025](meetings/20250321.md)	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Athina | Louis	| Mathew |
 24	|	Tuesday	[25/03/2025](meetings/20250325.md)	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Mathew | Beth	| - |
-24	|	Thursday	[27/03/2025](meetings/20250327.md)	|	14:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Beth	| Mathew	| Athina |
+24	|	Thursday	[27/03/2025](meetings/20250327.md)	|	14:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Beth	| Louis	| Athina |
 
 
 
