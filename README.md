@@ -46,15 +46,14 @@ Table 1. Selected carnivorous and other mammalian species
 
 |Name | species | fasta link |
 | --- | --- | --- |
-|Georgios Giannakis | Orca |[NC_064558.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_064558.1?report=fasta) [FASTA](sequences/Orca.fasta)|
-|Louis Johnson| Sea Otter |[NC_009692.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1?report=fasta)
-|Louis Johnson| Eurasian River Otter |[NC_062277.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1?report=fasta)
-|Mathew Lillico| European Badger | [NC_002080.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2?report=fasta&log$=seqview) |
-|Mathew Lillico| Hedgehog | [NC_011125.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1?report=fasta&log$=seqview) |
-|Beth McDonald| Red Squirrel | [NC_002369.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_002369.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_002369.1?report=fasta)
-|Beth McDonald| Grey Squirrel | [NC_050012.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_050012.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_050012.1?report=fasta)
-|Athina Chatziplis | Black footed ferret |[NC_024942.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_024942.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_024942.1?report=fasta)
-|Athina Chatziplis | Stoat |[NC_025516.1](https://www.ncbi.nlm.nih.gov/nucleotide/NC_025516.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_025516.1?report=fasta)
+|Louis Johnson| Sea Otter |[NC_009692.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_009692.1) [FASTA](sequences/Sea_otter.fasta)
+|Louis Johnson| Eurasian River Otter |[NC_062277.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_062277.1) [FASTA](sequences/River_otter.fasta)
+|Mathew Lillico| European Badger | [NC_002080.2](https://www.ncbi.nlm.nih.gov/nuccore/NC_002080.2) [FASTA](sequences/Badger.fasta) |
+|Mathew Lillico| Hedgehog | [NC_011125.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_011125.1) [FASTA](sequences/European_hedgehog.fasta) |
+|Beth McDonald| Red Squirrel | [NC_002369.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_002369.1) [FASTA](sequences/Red_squirrel.fasta)
+|Beth McDonald| Grey Squirrel | [NC_050012.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_050012.1) [FASTA](sequences/Grey_squirrel.fasta)
+|Athina Chatziplis | Black footed ferret |[NC_024942.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_024942.1) [FASTA](https://github.com/davidmam/bs32012-base/blob/main/sequences/black_footed_ferret.fasta)
+|Athina Chatziplis | Stoat |[NC_025516.1](https://www.ncbi.nlm.nih.gov/nucleotide/NC_025516.1) [FASTA](https://github.com/davidmam/bs32012-base/blob/main/sequences/stoat.fasta)
 
 
 2 Following download, a sequence alignment should be performed. This is essential to ensure that the appropriate restriction sites can be matched. [Jalview](http://www.jalview.org) will be the preferred tool here. Skill set: importing and aligning sequences with Jalview. Preparation and presentation of multiple sequence alignments. There may be the need to adjust the sequences to ensure appropriate alignment of the circular genomes. This will either be performed with Unix shell or Python scripts.
@@ -106,5 +105,5 @@ Each student will choose and present one paper on a molecular conservation topic
 | ---- | --- | --- | --- | 
 | Me | Use of DNA sequencing in tracking estraterrestrials | Journal of improbable science -1, 3-34 | (pagetitle)[URL] |
 |Louis Johnson| Mitogenomic evidence of close relationships between New Zealand’s extinct giant raptors and small-sized Australian sister-taxa|Molecular Phylogenetics and Evolution, 134, pp.122–128.|[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1055790318306328?via%3Dihub#s0010)
-
+|Beth McDonald| Sedimentary DNA insights into Holocene Adélie penguin (Pygoscelis adeliae) populations and ecology in the Ross Sea, Antarctica |Nature Communications, 16, 1798.|[Link](https://www.nature.com/articles/s41467-025-56925-4#Sec2)
 ‌
