@@ -13,7 +13,7 @@ Beth will be delivering her presentation regarding the scientific article 'Sedim
 #### 2. Progress check
 * Has everyone edited their FASTA links on the README to go to the FASTA sequences in the 'sequences' folder instead of NCBI website?
 * Has everyone done their FASTA alignments and uploaded them to the 'sequences' folder of the repository?
-* Aligning sequences in Jalview and run restrict on sequences. How did this go?
+* Aligning sequences in Jalview and running restrict on sequences. How did this go?
 
 #### 3. Questions for Dr Martin 
 Time allocated to address any questions relating to the project (including any technical or practical difficulties faced) 
