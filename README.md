@@ -53,7 +53,7 @@ Table 1. Selected carnivorous and other mammalian species
 |Beth McDonald| Red Squirrel | [NC_002369.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_002369.1) [FASTA](sequences/Red_squirrel.fasta)
 |Beth McDonald| Grey Squirrel | [NC_050012.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_050012.1) [FASTA](sequences/Grey_squirrel.fasta)
 |Athina Chatziplis | Black footed ferret |[NC_024942.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_024942.1) [FASTA](https://github.com/davidmam/bs32012-base/blob/main/sequences/black_footed_ferret.fasta)
-|Athina Chatziplis | Stoat |[NC_025516.1](https://www.ncbi.nlm.nih.gov/nucleotide/NC_025516.1) [FASTA](https://www.ncbi.nlm.nih.gov/nuccore/NC_025516.1?report=fasta)
+|Athina Chatziplis | Stoat |[NC_025516.1](https://www.ncbi.nlm.nih.gov/nucleotide/NC_025516.1) [FASTA](https://github.com/davidmam/bs32012-base/blob/main/sequences/stoat.fasta)
 
 
 2 Following download, a sequence alignment should be performed. This is essential to ensure that the appropriate restriction sites can be matched. [Jalview](http://www.jalview.org) will be the preferred tool here. Skill set: importing and aligning sequences with Jalview. Preparation and presentation of multiple sequence alignments. There may be the need to adjust the sequences to ensure appropriate alignment of the circular genomes. This will either be performed with Unix shell or Python scripts.
