@@ -17,6 +17,8 @@ Primer3 has a lot of configuration parameters. The key ones that will need to be
 * the region which must be included in any amplified fragment
 * the minimum/maximum size of an amplified fragment
 * the min/max annealing temperature (Tm) for the PCR primers.
+* 
+#### Primer 3 on the cluster
 
 Primer3 has all the commands/options set in an input file which it reads from STDIN (look back at the Unix Shell lesson) and prints the results to the screen (STDOUT) so you will run it like:
 
@@ -63,4 +65,7 @@ Leading in to week 4 you should be:
 * writing a script to generate Primer3 input files from the difference map.
 * writing a script to process the primer3 output 
 
+#### Primer 3 in Benchling
+
+You can upload your sequence file (the consensus file) to Benchling and run Primer 3 there.
  
