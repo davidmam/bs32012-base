@@ -9,7 +9,7 @@ Week | Day | Time | Room | Chair | Secretary| Presenter |
 20	|	Friday	[28/02/2025](meetings/20250228.md)	|	09:00:00	|	Main Library Bloomberg Lab [cap.15]	| - 	| -	| -  |
 21	|	Monday	[03/03/2025](meetings/20250303.md)	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Louis | Beth	| - |
 21	|	Friday	[07/03/2025](meetings/20250307.md)	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Athina	| Mathew	| - |
-22	|	Tuesday	[11/03/2025](meetings/20250311.md)	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Mathew | Athina	| Beth |
+22	|	Tuesday	[11/03/2025](meetings/20250311.md)	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Mathew | Louis	| Beth |
 22	|	Friday	[14/03/2025](meetings/20250314.md)	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	| Beth	| Mathew	| Louis |
 23	|	Tuesday	[18/03/2025](meetings/20250318.md)	|	12:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Louis | Athina	| - |
 23	|	Friday	[21/03/2025](meetings/20250321.md)	|	15:00:00	|	Carnelley D'Arcy Thom Museum CB25 (SLSC)  (HCS)  [cap.30]	|	Athina | Louis	| Mathew |
